@@ -7,7 +7,7 @@
 import pandas as pd
 import numpy as np
 
-# Leer el archivo Excel
+# Leer el archivo Excel y
 archivo = 'calificaciones_alumnos.xlsx'
 df = pd.read_excel(archivo)
 
