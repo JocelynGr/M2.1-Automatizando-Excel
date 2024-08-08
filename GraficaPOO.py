@@ -4,7 +4,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Leer el archivo Excel
+# Leer el archivo  de Excel
 archivo = 'calificaciones_alumnos.xlsx'
 df = pd.read_excel(archivo)
 
